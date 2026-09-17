@@ -1,4 +1,5 @@
 name: vNext · Candidato Pages · GFS lower · 1.548 mapas
+# visual-profile: vNext-professional-2 · paletas HD e isohipsas reforzadas
 
 on:
   workflow_dispatch:
